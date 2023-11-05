@@ -1,4 +1,7 @@
-# Hypermedia-Project-Part1
+# Marc102003.github.io
+<!DOCTYPE html>
+<html>
+
 <head>
     <meta name="author" content="Marc López Vílchez">
     <title>CURRICULUM</title>
@@ -201,6 +204,9 @@
         <div class="data-de-naixament10112003 subtitulo2">DATA DE NAIXAMENT<br />10/11/2003</div>
     </div>
 </div>
+
+
+</html>
 
 
 
